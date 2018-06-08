@@ -1,0 +1,17 @@
+#buttons span {
+  float: left;
+  margin: 0 10px 10px 0;
+  list-style: none;
+  width: 35px;
+  height: 30px;
+  padding-top: 10px;
+  background: #ebe8e8;
+  color: rgb(12, 12, 12);
+  cursor: pointer;
+  text-align: center;
+  transform: scale();
+}
+
+#buttons .active {
+  background-color: rgb(127, 218, 24);
+}
